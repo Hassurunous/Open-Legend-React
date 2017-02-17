@@ -1,0 +1,76 @@
+This will be a fully-functional campaign management application for Open Legend.
+
+Future Features:
+- GM Features
+    - Campaign Tracker
+        - Campaign notes
+        - Campaign maps
+        - Hidden/Shown to Players
+            - Hidden/Shown from specific players
+        - NPC Sheets
+            - Simplified NPC Sheet
+                - Simplified NPC Builder
+                - Complex NPC Builder (matches Character Builder)
+        - Combat Tracker
+            - Initiative Tracker
+            - Character Tracking
+                - HP Tracking
+                - Action Tracking
+                - Status Effects
+        - Monster Tracker
+            - Monster sheet
+            - Example Monster List
+                - Exhaustive Monster examples
+            - Monster Builder (NPC quick enemy creation)
+            - Boss Builder
+            - Monster stat tracking
+                - HP
+                - Defenses
+                - Special abilities
+                - ...etc.
+- Player Features
+    - Character Sheet
+        - Character Description
+        - Character Attributes
+            - Quick Attribute Spreads
+                    - Example Builds
+            - Attribute Dice
+        - Character Defenses, HP, and Speed
+        - Feats Section
+            - Feat List
+                - Feat Sorting by Attribute Score
+                    - Feat Sorting by other methods
+        - Equipment Section
+            - Armor List
+            - Weapon List
+                - Weapon Builder
+        - Perks and Flaws Section
+            - Perks List
+                        - Recommend based on keywords in description
+            - Flaws List
+                        - Recommend based on keywords in description
+            - Perk/Flaw Builder
+        - Wealth Tracking
+            - What you can buy/craft
+        - Item Tracking
+            - Maximum Heavy Items equal to Might Score
+            - One (maybe two) Bulky Items
+        - Character Image Uploader
+        - Character Leveling Calculations
+        - Dice Roller
+        - Crafting Timer
+        - Progression Planning
+            - Recommendations for upcoming options
+        - Attribute Substitution calculations
+        - Custom Substitutions
+        - Action Tracking
+            - Major Actions
+            - Movement
+            - Minor Actions
+                - Sustain
+                - Reload
+                - ...etc.
+- Shared Features
+    - Core Mechanic use
+    - Summon Sheets
+    - Mount Sheets
