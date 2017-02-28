@@ -31,6 +31,7 @@ Future Features:
 - Player Features
     - Character Sheet
         - Character Description
+            - Suggested Attributes, Feats, Boons, Banes based on description text keywords
         - Character Attributes
             - Quick Attribute Spreads
                     - Example Builds
